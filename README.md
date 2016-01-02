@@ -1,5 +1,5 @@
 # playing-with-algorithms
-famous algorithms implementations for playing with <br/>
+famous algorithm implementations for playing with <br/>
 
 The algorithms contained here were (originally) the result of a workshop held in Mexico city during December of 2015. So, please be carefully because they could be a bit spicy.<br/>
 As generative systems used algorithms for its different functionalities, I was interested in make those processes obvious in order to be able to reflect on the processes and possibilities they open form a creative perspective. For that purpose, we started by working with some on the most famous algorithms (bubble sort and insertion sort, for example). Then, we copied, modified, and wrote code, until we had the desired result.
